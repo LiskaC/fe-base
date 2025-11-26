@@ -1,0 +1,20 @@
+# npm
+node_modules/
+
+# OSX
+.DS_Store
+
+# Parcel
+dist/
+dist.zip
+.parcel-cache/
+
+# IDEA
+.idea/
+*.iml
+
+# dotenv
+.env
+
+# notes
+notes.md
